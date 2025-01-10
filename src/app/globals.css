@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Manrope", Arial, sans-serif;
+}
+
+.container {
+  padding-left: 160px;
+  padding-right: 160.5px;
+}
+
